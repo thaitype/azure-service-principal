@@ -1,6 +1,6 @@
 {
-  "name": "@mild-ts/npm-typescript-boilerplate",
-  "version": "0.0.2",
+  "name": "@thaitype/azure-service-principal",
+  "version": "0.0.0",
   "description": "NPM TypeScript Boilerplate with Changesets CLI & GitHub Actions",
   "main": "./dist/main.js",
   "module": "./dist/main.mjs",
